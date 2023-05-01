@@ -1,0 +1,45 @@
+
+.navbar-brand{
+    color: blanchedalmond;
+}
+
+.imgFondo {
+    background-image: url("../assets/img/hawaii.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    background-color: rgb(77, 73, 73);
+    background-blend-mode: soft-light;
+    margin-top: 3em;
+    color: blanchedalmond;
+}
+#navbarNav{
+    color: grey;
+}
+.card-ubicacion{
+ padding-left: 20px;
+ padding-top: 10px;
+ background-color: rgb(29, 28, 28);
+ color: antiquewhite;
+}
+#nombre{
+    margin-right: 30px;
+}
+
+#text-area{
+    margin-top: 20px ;
+}
+
+.recuerda{
+color: gray;
+}
+
+#footer{
+    margin-top: 15px;
+    background-color: rgb(33, 48, 71);
+}
+
+.nav-link{
+    text-decoration: none;
+    color: blanchedalmond;
+}
